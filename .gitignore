@@ -1,0 +1,16 @@
+# Python caches and bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local runtime upload artifacts
+uploads/*
+!uploads/.gitkeep
+
+# Common OS noise
+.DS_Store
+Thumbs.db
